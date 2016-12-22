@@ -1,3 +1,4 @@
+# 开启后可以查看当前显示的页面名称
 # android-TopActivity
 A useful tool for Android Developers, which shows the package name and class name of current activity.
 
